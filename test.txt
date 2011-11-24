@@ -2,4 +2,4 @@ testing
 
 hello world!
 
-derde locatie om iets te wijzigen.. bla bla
+derde locatie om iets te wijzigen..
